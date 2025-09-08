@@ -1,2 +1,2 @@
 # Named-Reroutes-Plugin
-Adding the Named Reroutes feature to the Material Editor in Unreal Engine Game Engine.
+Adds Named Reroute functionality to the Material Editor for better graph organization.
